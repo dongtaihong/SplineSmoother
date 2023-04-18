@@ -1,12 +1,3 @@
-<!--
- * @Author: 董泰宏 2396203400@qq.com
- * @Date: 2023-04-18 10:47:16
- * @LastEditors: 董泰宏 2396203400@qq.com
- * @LastEditTime: 2023-04-18 12:54:26
- * @FilePath: /SplineSmoother/README.md
- * @Description: 
- * Copyright (c) 2023 by 董泰宏 email: 2396203400@qq.com, All Rights Reserved.
--->
 #SplineSmoother
 基于osqp复现apollo的分段spline参考线平滑算法
 使用matplotlib完成过程的可视化
