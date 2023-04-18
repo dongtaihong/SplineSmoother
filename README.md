@@ -5,7 +5,7 @@
 --osqp-eigen
 求解二次规划的c++库
 ```shell
-安装参考：https://blog.csdn.net/zk1639712996/article/details/126568314?
+安装参考：https://blog.csdn.net/zk1639712996/article/details/126568314
 ```
 --matplotlib-cpp
     这个是基础的画图库，是很基本很重要经常会用到的画图库，安装也较为简单
